@@ -3,7 +3,7 @@
 
 * **Telegram** [IrynaSkachkova](https://t.me/IrynaSkachkova)
 * **E-mail:** [skackova.is23@gmail.com](skachkova.is23@gmail.com)
-* **GitHub:** [IrynaSkaachkova] (https://github.com/IrynaSkachkova)
+* **GitHub:** [IrynaSkachkova](https://github.com/IrynaSkachkova)
 
 ## About Me
 I am a professional with extensive experience in logistics and construction cost engineering, currently transitioning into software development. My key strengths include fast learning, analytical thinking, and strong self-management.  
